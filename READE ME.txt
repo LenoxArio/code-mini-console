@@ -1,0 +1,6 @@
+1) Mettre la librairie Adafruit_SH1106-master dans le dossier librairie de arduino
+2) Executer le fichier du programe : jeu-gaming.ino
+3) Téléverser
+4) Amusez-vous
+====================
+modifier le code pour plus de fonction :)
